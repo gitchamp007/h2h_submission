@@ -38,7 +38,7 @@ Once these two conditions are satisfied, the strategy enters a long position **o
   - Position holding logic
   - Daily strategy returns
 
-### 3. `calculate_metrics(df, risk_free_rate=0.0)`
+### 3. `calculate_metrics(df, risk_free_rate=0.06)`
 - Computes key performance metrics:
   - **Total Return**
   - **Maximum Drawdown**
